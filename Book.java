@@ -1,5 +1,10 @@
 public class Book {
-
+    /**
+     * @author Martinus
+     * @version
+     *
+     */
+    //Variables
     private String title;
     private String author;
     private String publisher;
